@@ -25,12 +25,12 @@
   },
   "repository": {
     "type": "git",
-    "url": "git://github.com/wernerglinka/metalsmith-html-minifier.git"
+    "url": "git://github.com/whymarrh/metalsmith-html-minifier.git"
   },
-  "author": "Werner Glinkay",
+  "author": "Whymarrh Whitby",
   "license": "MIT",
   "bugs": {
-    "url": "https://github.com/wernerglinka/metalsmith-html-minifier/issues"
+    "url": "https://github.com/whymarrh/metalsmith-html-minifier/issues"
   },
-  "homepage": "github.com/wernerglinka/metalsmith-html-minifier"
+  "homepage": "https://github.com/whymarrh/metalsmith-html-minifier"
 }
