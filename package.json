@@ -4,7 +4,7 @@
     "node": ">=10"
   },
   "dependencies": {
-    "html-minifier-terser": "^7.2.0",
+    "html-minifier-security-fix": "^4.0.0",
     "lodash.defaultsdeep": "^4.6.1",
     "multimatch": "^4.0.0"
   },
