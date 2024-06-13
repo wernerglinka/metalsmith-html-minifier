@@ -4,14 +4,14 @@
     "node": ">=10"
   },
   "dependencies": {
-    "html-minifier": "^4.0.0",
+    "html-minifier-terser": "^7.2.0",
     "lodash.defaultsdeep": "^4.6.1",
     "multimatch": "^4.0.0"
   },
   "devDependencies": {
     "jest": "^26.1.0"
   },
-  "version": "4.0.1",
+  "version": "0.0.1",
   "description": "A Metalsmith plugin to minify HTML files.",
   "main": "lib/index.js",
   "files": [
@@ -25,12 +25,12 @@
   },
   "repository": {
     "type": "git",
-    "url": "git://github.com/whymarrh/metalsmith-html-minifier.git"
+    "url": "git://github.com/wernerglinka/metalsmith-html-minifier.git"
   },
-  "author": "Whymarrh Whitby",
+  "author": "Werner Glinkay",
   "license": "MIT",
   "bugs": {
-    "url": "https://github.com/whymarrh/metalsmith-html-minifier/issues"
+    "url": "https://github.com/wernerglinka/metalsmith-html-minifier/issues"
   },
-  "homepage": "https://github.com/whymarrh/metalsmith-html-minifier"
+  "homepage": "github.com/wernerglinka/metalsmith-html-minifier"
 }
